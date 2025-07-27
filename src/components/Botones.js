@@ -9,7 +9,7 @@ const tipoModalPorDefecto = "anuncioCliente"; // Opciones: "miAnuncio", "anuncio
 
 // Rango de fechas para abrir modal por defecto 
 const fechaInicioModal = "2025-07-10"; // Formato YYYY-MM-DD
-const fechaFinModal = "2025-07-30";    // Formato YYYY-MM-DD
+const fechaFinModal = "2025-07-30";    // Formato YYYY-MM-DD 
 
 //URL Anuncio Cliente
 const urlModalAnuncioClienteH = "";//Se quema la variable del anuncio del cliente
